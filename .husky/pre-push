@@ -1,0 +1,1 @@
+cd RSS-Puzzle npx validate-branch-name && npm run lint:fix

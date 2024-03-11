@@ -1,0 +1,2 @@
+cd RSS_Puzzle
+npm run ci:format
